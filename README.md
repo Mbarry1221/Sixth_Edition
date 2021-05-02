@@ -1,4 +1,4 @@
-# Foundry Virtual Tabletop - DnD5e Game System
+# Foundry Virtual Tabletop - DnD6e Game System
 
 This game system for [Foundry Virtual Tabletop](http://foundryvtt.com) provides character sheet and game system 
 support for the Fifth Edition of the world's most popular roleplaying game.
@@ -7,7 +7,7 @@ This system is offered and may be used under the terms of the Open Gaming Licens
 [Systems Reference Document 5.1 (SRD5)](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf).
 
 This system provides character sheet support for Actors and Items, mechanical support for dice and rules necessary to
-play games of 5th Edition, and compendium content for Monsters, Heroes, Items, Spells, Class Features, Monster 
+play games of 6th Edition, and compendium content for Monsters, Heroes, Items, Spells, Class Features, Monster 
 Features, and more!
 
 The software component of this system is distributed under the GNUv3 license.
